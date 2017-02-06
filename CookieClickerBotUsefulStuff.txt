@@ -29,3 +29,5 @@ Game.Ascend(1)
 	
 Game.Reincarnate(1)
 	Reincarnating
+	
+javascript:(function(){Game.LoadMod('https://raw.githubusercontent.com/skether/CookieBot/master/CookieBot.js');}());
