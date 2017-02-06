@@ -1,0 +1,31 @@
+Game.ClickProduct(id)
+	id - > buildings num
+		 0 - Cursor
+		13 - Prism
+	
+Game.storeBulkButton(id)
+	id - > Which Button
+		0 - Buy
+		1 - Sell
+		2 - 1x
+		3 - 10x
+		4 - 100x
+		
+document.getElementById("upgrade8").click()
+	Buying the upgrade from the first slot
+	
+document.getElementById("upgrade2").click()
+	Buying Valentines Day
+		
+Game.cookies
+	Number of cookies available
+	
+Game.ascendNumber.style.display
+	"none" - Do not Ascend
+	not "none" - Ascend
+	
+Game.Ascend(1)
+	Ascending
+	
+Game.Reincarnate(1)
+	Reincarnating
