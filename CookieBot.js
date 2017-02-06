@@ -6,3 +6,11 @@ skether.buyBuildings = function(){
 		Game.ClickProduct(i);
 	}
 };
+
+skether.buyUpgrades = function(){
+	upgradeButton = document.getElementById("upgrade8");
+	do{
+		upgradeButton.click();
+		upgradeButton = document.getElementById("upgrade8");
+	}while(upgradeButton != null && upgradeButton.className == "crate upgrade enabled");
+};

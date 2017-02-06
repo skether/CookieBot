@@ -13,6 +13,8 @@ Game.storeBulkButton(id)
 		
 document.getElementById("upgrade8").click()
 	Buying the upgrade from the first slot
+	crate upgrade enabled - Can Buy
+	crate upgrade		  - Can't Buy
 	
 document.getElementById("upgrade2").click()
 	Buying Valentines Day
@@ -30,4 +32,5 @@ Game.Ascend(1)
 Game.Reincarnate(1)
 	Reincarnating
 	
-javascript:(function(){Game.LoadMod('https://raw.githubusercontent.com/skether/CookieBot/master/CookieBot.js');}());
+javascript:(function(){Game.LoadMod('https://rawgit.com/skether/CookieBot/master/CookieBot.js');}());
+Game.LoadMod('https://rawgit.com/skether/CookieBot/master/CookieBot.js')
