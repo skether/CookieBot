@@ -34,3 +34,9 @@ Game.Reincarnate(1)
 	
 javascript:(function(){Game.LoadMod('https://rawgit.com/skether/CookieBot/master/CookieBot.js');}());
 Game.LoadMod('https://rawgit.com/skether/CookieBot/master/CookieBot.js')
+Game.LoadMod('http://pastebin.com/raw/HseWKnTM')
+http://pastebin.com/raw/HseWKnTM
+
+Resets:
+		2017.02.07. 04:06	-	29
+		
